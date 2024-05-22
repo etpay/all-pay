@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ######
+djangorestframework
+
+
+###### Requirements with Version Specifiers ######
