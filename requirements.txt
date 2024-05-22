@@ -1,5 +1,7 @@
 ###### Requirements without Version Specifiers ######
+django
 djangorestframework
+mysqlclient
 
 
 ###### Requirements with Version Specifiers ######
